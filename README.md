@@ -5,7 +5,7 @@
 - 💬 Ask me about my journey
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/faranahmadk)
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faranak-cs&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faranak-cs&langs_count=10&layout=compact&hide=C)](https://github.com/anuraghazra/github-readme-stats)
 ## GitHub Stats
 [![Faran's GitHub stats](https://github-readme-stats.vercel.app/api?username=faranak-cs&hide=stars&show=reviews,prs_merged&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Faran's GitHub stats](https://github-readme-stats.vercel.app/api?username=farankhanatu&hide=stars&show=reviews,prs_merged&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
