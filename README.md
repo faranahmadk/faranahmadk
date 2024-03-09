@@ -35,6 +35,18 @@
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>
     <td align='center' width="190">
+        <img src="https://github.com/faranak-cs/faranak-cs/assets/73027299/3b91e8aa-80c6-4cd7-9696-69411430b183">
+    </td>
+    <td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Aws-ec2.svg" >
+    </td>
+     <td align='center' width="100">
+        <img src="https://github.com/faranak-cs/faranak-cs/assets/73027299/dce46228-f36c-464c-bc16-12bac881e563">
+    </td>
+     <td align='center' width="190">
+        <img src="https://github.com/faranak-cs/faranak-cs/assets/73027299/39c1c2e7-6674-4e7a-8e8a-67f0191aa200" >
+    </td>
+    <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
     </td>
 </tr>
