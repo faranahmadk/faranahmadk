@@ -5,4 +5,13 @@
 - 💬 Ask me about my journey
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/faranahmadk)
 ## GitHub Stats
-[![Faran's GitHub stats](https://github-readme-stats.vercel.app/api?username=farankhanatu)](https://github.com/anuraghazra/github-readme-stats)
+[![Faran's GitHub stats](https://github-readme-stats.vercel.app/api?username=faranak-cs&hide=stars&show=reviews,prs_merged&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Faran's GitHub stats](https://github-readme-stats.vercel.app/api?username=farankhanatu&hide=stars&show=reviews,prs_merged&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+## Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=Pi-Camera)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=Smart-Camera)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=Python-Fundamentals)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
