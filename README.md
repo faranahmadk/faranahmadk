@@ -7,8 +7,8 @@
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faranak-cs&langs_count=10&layout=compact&hide=C)
 ## GitHub Stats
-![Faran's GitHub stats](https://github-readme-stats.vercel.app/api?username=faranak-cs&hide=stars&show=reviews,prs_merged&show_icons=true)
-![Faran's GitHub stats](https://github-readme-stats.vercel.app/api?username=farankhanatu&hide=stars&show=reviews,prs_merged&show_icons=true)
+![Faran's GitHub stats](https://github-readme-stats.vercel.app/api?username=faranak-cs&hide=stars&show=reviews,prs_merged&show_icons=true&hide_rank=true)
+![Faran's GitHub stats](https://github-readme-stats.vercel.app/api?username=farankhanatu&hide=stars&show=reviews,prs_merged&show_icons=true&hide_rank=true)
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=faranak-cs" alt="faranak-cs" /></p>
 
 ## Projects
