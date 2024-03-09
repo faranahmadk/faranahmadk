@@ -4,6 +4,7 @@
 - 👯 I’m looking to collaborate on projects involving agile software development, cybersecurity and blockchain
 - 💬 Ask me about my journey
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/faranahmadk)
+- 🔖 Secondary account: [GitHub](https://github.com/farankhanatu)
 ## Tech Stack
 <table width="100">
 <tr>
