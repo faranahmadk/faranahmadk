@@ -4,7 +4,43 @@
 - 👯 I’m looking to collaborate on projects involving agile software development, cybersecurity and blockchain
 - 💬 Ask me about my journey
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/faranahmadk)
-## Top Languages
+## Tech Stack
+<table width="100">
+<tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
+   <td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Angularjsoldicon.png" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://hardhat.org/_next/static/media/hardhat-logo.5c5f687b.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.openzeppelin.com/hubfs/raw_assets/public/oz_2022/images/homepage/openzep.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+    </td>
+</tr>
+</table>
+
+## Language Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faranak-cs&langs_count=10&layout=compact&hide=C)
 ## GitHub Stats
 ![Faran's GitHub stats](https://github-readme-stats.vercel.app/api?username=faranak-cs&hide=stars&show=reviews,prs_merged&show_icons=true&hide_rank=true)
