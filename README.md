@@ -40,7 +40,7 @@
     <td align='center' width="190">
         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Aws-ec2.svg" >
     </td>
-     <td align='center' width="100">
+     <td align='center' width="150">
         <img src="https://github.com/faranak-cs/faranak-cs/assets/73027299/dce46228-f36c-464c-bc16-12bac881e563">
     </td>
      <td align='center' width="190">
