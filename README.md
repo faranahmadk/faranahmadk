@@ -34,6 +34,9 @@
 </tr>
 <tr>
     <td align='center'>
+        <img src="https://github.com/faranak-cs/faranak-cs/assets/73027299/ff819526-71ab-40e1-b8c6-95453153f955"  height="60">
+    </td>
+    <td align='center'>
         <img src="https://www.openzeppelin.com/hubfs/raw_assets/public/oz_2022/images/homepage/openzep.svg">
     </td>
     <td align='center'>
@@ -51,11 +54,11 @@
      <td align='center'>
         <img src="https://github.com/faranak-cs/faranak-cs/assets/73027299/39c1c2e7-6674-4e7a-8e8a-67f0191aa200" height="60">
     </td>
+</tr>
+<tr>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="60">
     </td>
-</tr>
-<tr>
     <td align='center'>
         <img src="https://github.com/faranak-cs/faranak-cs/assets/73027299/4e7b33fd-3b79-4cd9-b920-7292e40d0301" height="60">
     </td>
