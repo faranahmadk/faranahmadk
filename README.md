@@ -85,8 +85,8 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=faranak-cs" alt="faranak-cs" /></p>
 
 ## Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=cbdc)](https://github.com/faranak-cs/cbdc)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=pi-camera)](https://github.com/faranak-cs/pi-camera)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=smart-camera)](https://github.com/faranak-cs/smart-camera)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=python-fundamentals)](https://github.com/faranak-cs/python-fundamentals)
 
 
