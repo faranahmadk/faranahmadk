@@ -87,7 +87,7 @@
 ## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=cbdc)](https://github.com/faranak-cs/cbdc)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=gaa-nfl-2024)](https://github.com/faranak-cs/gaa-nfl-2024)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=pi-camera)](https://github.com/faranak-cs/pi-camera)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=Regulatory-lending-ethDublin24)](https://github.com/faranak-cs/Regulatory-lending-ethDublin24)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=python-fundamentals)](https://github.com/faranak-cs/python-fundamentals)
 
 
