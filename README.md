@@ -1,8 +1,9 @@
 ## Hi there! I'm Faran 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faranak-cs" alt="faranak-cs" /> </p>
 
-- 🔭 I’m currently working as grad software engineer in beyond inc. and part of data engineering platforms team.
-- 🌱 I’m currently learning messaging and data streaming platforms mainly apache pulsar.
+- 💻 I’m currently working as Grad Software Engineer in Beyond Inc. and part of Data Engineering Platforms Team
+- 🔰 I'm currently learning Java ecosystem with Maven & Spring
+- 🔎 I’m currently exploring Messaging and Data Streaming platforms mainly Apache Pulsar
 - 💬 Ask me about my journey
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/faranahmadk)
 - 🔖 Secondary account: [GitHub](https://github.com/farankhanatu)
