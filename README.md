@@ -16,6 +16,9 @@
    <td align='center' width="190">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
     </td>
+     <td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg">
+    </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
@@ -28,11 +31,11 @@
     <td align='center' width="190">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" width="60">
     </td>
+</tr>
+<tr>
     <td align='center' width="190">
         <img src="https://hardhat.org/_next/static/media/hardhat-logo.5c5f687b.svg">
     </td>
-</tr>
-<tr>
     <td align='center'>
         <img src="https://github.com/faranak-cs/faranak-cs/assets/73027299/ff819526-71ab-40e1-b8c6-95453153f955"  height="60">
     </td>
@@ -46,13 +49,10 @@
         <img src="https://github.com/faranak-cs/faranak-cs/assets/73027299/3b91e8aa-80c6-4cd7-9696-69411430b183" height="60">
     </td>
     <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Aws-ec2.svg" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="60">
     </td>
      <td align='center'>
-        <img src="https://github.com/faranak-cs/faranak-cs/assets/73027299/dce46228-f36c-464c-bc16-12bac881e563" height="60">
-    </td>
-     <td align='center'>
-        <img src="https://github.com/faranak-cs/faranak-cs/assets/73027299/39c1c2e7-6674-4e7a-8e8a-67f0191aa200" height="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" height="60">
     </td>
 </tr>
 <tr>
@@ -73,6 +73,9 @@
     </td>
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" height="60">
+    </td>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/JetBrains_IntelliJ_IDEA_Product_Icon.svg" height="60">
     </td>
 </tr>
 </table>
