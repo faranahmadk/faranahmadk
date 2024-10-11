@@ -57,10 +57,10 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" height="60">
     </td>
     <td align='center'>
-        <img src="https://github.com/faranak-cs/faranak-cs/assets/73027299/4e7b33fd-3b79-4cd9-b920-7292e40d0301" height="60">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" height="60">
     </td>
     <td align='center'>
         <img src="https://github.com/faranak-cs/faranak-cs/assets/73027299/6a3f0fa7-2b7d-4bbd-ab32-2c15ad066c00">
