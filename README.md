@@ -89,9 +89,9 @@
 
 ## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=cbdc)](https://github.com/faranak-cs/cbdc)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=equityx)](https://github.com/faranak-cs/equityx)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=rag)](https://github.com/faranak-cs/rag)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=Regulatory-lending-ethDublin24)](https://github.com/faranak-cs/Regulatory-lending-ethDublin24)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=python-fundamentals)](https://github.com/faranak-cs/python-fundamentals)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=AI_Hackathon_challange_RAG)](https://github.com//AI_Hackathon_challange_RAG)
 
 
 
