@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working as Grad Software Engineer in Beyond Inc. and part of Data Engineering Platforms Team
 - 🔰 I'm currently learning Java ecosystem with Maven & Spring
-- 🔎 I’m currently exploring Messaging and Data Streaming platforms mainly Apache Pulsar
+- 🔎 I’m currently exploring Messaging and Data Streaming platforms mainly Apache Pulsar & Kafka 
 - 💬 Ask me about my [journey](https://github.com/user-attachments/assets/ca74e1da-b7c8-4387-8f79-4943e5dcbd53)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/faranahmadk)
 - 🔖 Secondary account: [GitHub](https://github.com/farankhanatu)
