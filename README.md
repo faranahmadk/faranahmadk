@@ -91,7 +91,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=cbdc)](https://github.com/faranak-cs/cbdc)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=rag)](https://github.com/faranak-cs/rag)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=Regulatory-lending-ethDublin24)](https://github.com/faranak-cs/Regulatory-lending-ethDublin24)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=AI_Hackathon_challange_RAG)](https://github.com//AI_Hackathon_challange_RAG)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=AI_Hackathon_challange_RAG)](https://github.com/faranak-cs/AI_Hackathon_challange_RAG)
 
 
 
