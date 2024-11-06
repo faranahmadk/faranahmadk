@@ -1,7 +1,7 @@
 ## Hi there! I'm Faran 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faranak-cs" alt="faranak-cs" /> </p>
 
-- 💻 I’m currently working as a Software Engineer in Data Engineering Platforms Team
+- 💻 I’m currently working as a Software Engineer in Data Engineering Platforms team at Beyond Inc.
 - 🔰 I'm currently learning Java ecosystem with Maven & Spring
 - 🔎 I’m currently exploring Messaging and Data Streaming platforms mainly Apache Pulsar & Kafka 
 - 💬 Ask me about my [journey](https://github.com/user-attachments/assets/ca74e1da-b7c8-4387-8f79-4943e5dcbd53)
@@ -29,18 +29,18 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" width="60">
+        <img src="https://hardhat.org/_next/static/media/hardhat-logo.5c5f687b.svg">
     </td>
 </tr>
 <tr>
     <td align='center' width="190">
-        <img src="https://hardhat.org/_next/static/media/hardhat-logo.5c5f687b.svg">
+        <p> 🦜️🔗 LangChain </p>
     </td>
     <td align='center'>
-        <img src="https://github.com/faranak-cs/faranak-cs/assets/73027299/ff819526-71ab-40e1-b8c6-95453153f955"  height="60">
+        <img src="https://github.com/user-attachments/assets/892454bc-677a-4061-9518-92b271d529f0"  height="60">
     </td>
     <td align='center'>
-        <img src="https://www.openzeppelin.com/hubfs/raw_assets/public/oz_2022/images/homepage/openzep.svg">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="60">
     </td>
     <td align='center'>
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
@@ -66,13 +66,13 @@
         <img src="https://github.com/faranak-cs/faranak-cs/assets/73027299/6a3f0fa7-2b7d-4bbd-ab32-2c15ad066c00">
     </td>
     <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Jira_Logo.svg" height="60">
+    </td>
+    <td align='center'>
         <img src="https://github.com/faranak-cs/faranak-cs/assets/73027299/420d0861-1b04-4bcb-948c-0905815291be" height="60">
     </td>
     <td align='center'>
         <img src="https://github.com/faranak-cs/faranak-cs/assets/73027299/ffcdf6e4-cdaf-481b-b16c-dbc5025b7d6f" height="60">
-    </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" height="60">
     </td>
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/JetBrains_IntelliJ_IDEA_Product_Icon.svg" height="60">
@@ -92,7 +92,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=rag)](https://github.com/faranak-cs/rag)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=Regulatory-lending-ethDublin24)](https://github.com/faranak-cs/Regulatory-lending-ethDublin24)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=AI_Hackathon_challange_RAG)](https://github.com/faranak-cs/AI_Hackathon_challange_RAG)
-
-
-
-
