@@ -4,8 +4,7 @@
 - 💻 I’m currently working as a Software Engineer in Data Engineering Platforms team at Beyond Inc.
 - 🔰 I'm currently learning Java ecosystem with Maven & Spring
 - 🔎 I’m currently exploring Messaging and Data Streaming platforms mainly Apache Pulsar & Kafka 
-- 💬 Ask me about my [journey](https://github.com/user-attachments/assets/ca74e1da-b7c8-4387-8f79-4943e5dcbd53)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/faranahmadk)
+- 📫 Let's us connect: [LinkedIn](https://www.linkedin.com/in/faranahmadk)
 - 🔖 Secondary account: [GitHub](https://github.com/farankhanatu)
 ## Tech Stack
 <table width="100">
@@ -34,9 +33,6 @@
 </tr>
 <tr>
     <td align='center' width="190">
-        <p> 🦜️🔗 LangChain </p>
-    </td>
-    <td align='center'>
         <img src="https://github.com/user-attachments/assets/892454bc-677a-4061-9518-92b271d529f0"  height="60">
     </td>
     <td align='center'>
@@ -53,6 +49,9 @@
     </td>
      <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" height="60">
+    </td>
+    <td align='centre'>
+        <img src="https://github.com/user-attachments/assets/4fe7a71c-e19b-46c8-ac49-06d5e202599f">
     </td>
 </tr>
 <tr>
