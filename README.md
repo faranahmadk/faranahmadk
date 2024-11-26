@@ -1,7 +1,7 @@
 ## Hi there! I'm Faran 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faranak-cs" alt="faranak-cs" /> </p>
 
-- 💻 I’m currently working as a Software Engineer in Data Engineering Platforms team at Beyond Inc.
+- 💻 I’m currently working as Software Engineer in Data Engineering team at Beyond Inc.
 - 🔰 I'm currently learning Java ecosystem with Maven & Spring
 - 🔎 I’m currently exploring Messaging and Data Streaming platforms mainly Apache Pulsar & Kafka 
 - 📫 Let's us connect: [LinkedIn](https://www.linkedin.com/in/faranahmadk)
@@ -88,6 +88,6 @@
 
 ## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=rag)](https://github.com/faranak-cs/rag)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=pgvector-playground)](https://github.com/faranak-cs/pgvector-playground)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=spring-rag-app)](https://github.com/faranak-cs/spring-rap-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=pgvector-playground)](https://github.com/faranak-cs/pgvector-playground)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=cbdc)](https://github.com/faranak-cs/cbdc)
