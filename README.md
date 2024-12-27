@@ -2,8 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faranak-cs" alt="faranak-cs" /> </p>
 
 - 💻 I’m currently working as Software Engineer in Data Engineering team at Beyond Inc.
-- 🔰 I'm currently learning Java ecosystem with Maven & Spring
-- 🔎 I’m currently exploring Messaging and Data Streaming platforms mainly Apache Pulsar & Kafka 
+- 🔰 I'm currently learning Java ecosystem with Maven, Spring and OpenTelemetry
+- 🔎 I’m currently exploring Messaging and Event Streaming Systems mainly Apache Pulsar & Kafka 
 - 📫 Let's us connect: [LinkedIn](https://www.linkedin.com/in/faranahmadk)
 - 🔖 Secondary account: [GitHub](https://github.com/farankhanatu)
 ## Tech Stack
