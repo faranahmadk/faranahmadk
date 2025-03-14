@@ -12,6 +12,9 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg">
     </td>
     <td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="60">
+    </td>
+    <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
    <td align='center' width="190">
@@ -21,9 +24,6 @@
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
     <td align='center' width="190">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Redis_logo.svg">
-    </td>
-    <td align='center' width="190">
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="60">
     </td>
     <td align='center' width="190">
@@ -31,6 +31,9 @@
     </td>
 </tr>
 <tr>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Redis_logo.svg">
+    </td>
     <td align='center'>
         <img src="https://github.com/faranak-cs/faranak-cs/assets/73027299/3b91e8aa-80c6-4cd7-9696-69411430b183" height="60">
     </td>
@@ -42,9 +45,6 @@
     </td>
      <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" height="60">
-    </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" height="60">
     </td>
     <td align='centre'>
         <img src="https://github.com/user-attachments/assets/4fe7a71c-e19b-46c8-ac49-06d5e202599f">
@@ -63,14 +63,14 @@
      <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/New_Relic_logo.png">
     </td>
-    <td>
+    <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg" height="60">
     </td>
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" height="60">
     </td>
-    <td align='center'>
-        <img src="https://github.com/faranak-cs/faranak-cs/assets/73027299/420d0861-1b04-4bcb-948c-0905815291be" height="60">
+     <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" height="60">
     </td>
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/JetBrains_IntelliJ_IDEA_Product_Icon.svg" height="60">
