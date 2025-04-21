@@ -79,14 +79,14 @@
 </table>
 
 ## Language Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faranak-cs&langs_count=12&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faranahmadk&langs_count=12&layout=compact)
 ## GitHub Stats
-![Faran's GitHub stats](https://github-readme-stats.vercel.app/api?username=faranak-cs&hide=stars&show=reviews,prs_merged&show_icons=true&hide_rank=true)
+![Faran's GitHub stats](https://github-readme-stats.vercel.app/api?username=faranahmadk&hide=stars&show=reviews,prs_merged&show_icons=true&hide_rank=true)
 ![Faran's GitHub stats](https://github-readme-stats.vercel.app/api?username=farankhanatu&hide=stars&show=reviews,prs_merged&show_icons=true&hide_rank=true)
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=faranak-cs" alt="faranak-cs" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=faranahmadk" alt="faranahmadk" /></p>
 
 ## Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=rag)](https://github.com/faranak-cs/rag)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=spring-rag-app)](https://github.com/faranak-cs/spring-rag-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=pgvector-playground)](https://github.com/faranak-cs/pgvector-playground)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranak-cs&repo=bq-py-app)](https://github.com/faranak-cs/bq-py-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranahmadk&repo=rag)](https://github.com/faranahmadk/rag)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranahmadk&repo=spring-rag-app)](https://github.com/faranahmadk/spring-rag-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranahmadk&repo=pgvector-playground)](https://github.com/faranahmadk/pgvector-playground)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=faranahmadk&repo=bq-py-app)](https://github.com/faranahmadk/bq-py-app)
